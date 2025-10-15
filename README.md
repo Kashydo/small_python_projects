@@ -31,10 +31,13 @@ Each project demonstrates practical programming concepts such as loops, conditio
 ## 🛠️ How to Run
 
 1. Clone this repository:
+   ```bash
    git clone https://github.com/<your-username>/big-book-of-small-python-projects.git
-2. Navigate to the folder:
+3. Navigate to the folder:
+   ```bash
    cd big-book-of-small-python-projects
-3. Run any project. Ex:
+5. Run any project. Ex:
+   ```bash
    python bagels.py
 
 🎯 Goals
@@ -43,7 +46,4 @@ Practice writing clean, readable Python code
 
 Reinforce fundamental programming concepts
 
-Build a collection of small, working examples for future reference
-
-   ```bash
-   git clone https://github.com/<your-username>/big-book-of-small-python-projects.git
+Build a collection of small, working examples for future referenceg-book-of-small-python-projects.git
