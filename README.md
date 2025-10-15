@@ -12,7 +12,7 @@ I’m going through the book step by step — treating each exercise as both a l
 
 | # | Project Title | Status | Notes |
 |:-:|----------------|:-------:|-------|
-| 1 | [Bagels](./bagels.py) | ✅ Done | Classic deduction game inspired by Mastermind |
+| 1 | [Begels](./begels.py) | ✅ Done | Classic deduction game inspired by Mastermind |
 | 2 | – | ⏳ Coming soon | |
 
 *(The list will be updated as I complete new projects.)*
@@ -38,7 +38,7 @@ Each project demonstrates practical programming concepts such as loops, conditio
    cd big-book-of-small-python-projects
 5. Run any project. Ex:
    ```bash
-   python bagels.py
+   python begels.py
 
 🎯 Goals
 
